@@ -4,7 +4,7 @@ B specification of a very simple version of the old Spaceship & Asteroids arcade
 
 Uses the one machine
 
-Features a graphical view, which uses an animation function. Images used by the animation function are in [this](Asteroids Game/ani) directory.
+Features a graphical view, which uses an animation function. Images used by the animation function are in [this] (Asteroids Game/ani) directory.
 
 Graphical view
 
