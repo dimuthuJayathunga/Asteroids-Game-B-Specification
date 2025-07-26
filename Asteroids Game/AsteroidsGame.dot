@@ -1,0 +1,4 @@
+digraph module_hierarchy {
+  graph [page="8.5, 11",ratio=fill,size="7.5,10"];
+  1 [shape=record, style=bold, color=darkgreen, label="|{MACHINE AsteroidsGame\n|SETS\nREPORT = \{SUCCESSFULLY_MOVED,...,CANNOT_MOVE_BACKWARD\}\nMOVEMENT = \{MOVE_UP,...,FIRE_LASER_IT_IS_A_SMALL_ASTEROID\}\nDOCKED_STATUS = \{YES,NO\}\nGAME_STATUS = \{GAME_WON,...,ONGOING\}\nDIRECTION = \{DIR_UP,...,DIR_RIGHT\}\n|VARIABLES\n (8 more)|CONSTANTS\n (11 more)|OPERATIONS\n (13 more)}|"];
+}
